@@ -1,0 +1,35 @@
+.score {
+    position:fixed;
+    top:5; right:20;
+	background-color: #FFFF00;
+	padding: 5px;
+	border: 1px solid;
+}
+
+.scrollTop {
+    position:fixed;
+    bottom:5; right:20;
+}
+
+.submit{
+	position:fixed;
+    bottom:5;
+	left: 50%;
+}
+
+div.question
+{
+  width: 550px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+    margin-right: 10px;
+}
+
+input {
+	margin-left: 40px;
+    margin-right: 40px;
+}
